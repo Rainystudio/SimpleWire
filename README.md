@@ -1,4 +1,9 @@
-# Fabric Example Mod
+# Rainy's Simple Wire 
+version: 1.6.5
+Fabric is required. 
+
+## Description
+Introduces wiring. craftable with naturally occuring Softmetal.  
 
 ## Setup
 
@@ -6,4 +11,5 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+Do not redistribute modified versions without permission
